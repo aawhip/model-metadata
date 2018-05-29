@@ -7,14 +7,15 @@ It is in response to requests from Bethany Hackenjos (bhackenjos@flowwest.com) a
 
 In the main text file, the following bullets should be answered for each project:
 1.  Project/Model title
-2.  Geospatial extent
-3.  Flows modeled
-4.  Dimensions (1D, 2D, 3D)
-5.  Resolution (cell dimensions, XS spacing)
-6.  Platform (HEC-RAS, Delft, etc.)
-7.  Calibrated and verification performed (yes or no + type)
-8.  Purpose
-9.  Date of model completion
-10. Date and resolution of underlying elevation data (topography and bathymetry)
-11. Availability to public or third party entities
-12. File name of associated shapefile (if uploaded)
+2.  Contact information
+3.  Geospatial extent
+4.  Flows modeled
+5.  Dimensions (1D, 2D, 3D)
+6.  Resolution (cell dimensions, XS spacing)
+7.  Platform (HEC-RAS, Delft, etc.)
+8.  Calibrated and verification performed (yes or no + type)
+9.  Purpose
+10. Date of model completion
+11. Date and resolution of underlying elevation data (topography and bathymetry)
+12. Availability to public or third party entities
+13. File name of associated shapefile (if uploaded)
