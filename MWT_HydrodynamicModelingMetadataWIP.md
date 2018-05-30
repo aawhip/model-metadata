@@ -63,7 +63,7 @@ LOWER COSUMNES RIVER FLOODPLAIN RESTORATION PROJECT PLANNING HYDRODYNAMIC MODELI
 GRIZZLEY SLOUGH HYDRODYNAMIC MODELING – ESA
 1.	Project/Model title: 
 2.	Description: 
-3.	Contact information: 
+3.	Contact information: Matt Brennan, MBrennan@esassoc.com
 4.	Geospatial extent: 
 5.	Flows modeled: 
 6.	Dimensions: 
