@@ -12,7 +12,8 @@ MCCORMACK-WILLIAMSON TRACT HYDRODYNAMIC MODELING – CWS
 9.	Calibrated and verification performed: In progress
 10.	Purpose: For research and pairing with monitoring field data from 2016-2019. Intended for investigation of restoration impacts and developing predictive tools for zooplankton abundance in Delta floodplain restoration sites.
 11.	Date of model completion: Model development in progress
-12.	Date and resolution of underlying elevation data: Primary elevation data from 2007 LiDAR from the California Department of Water Resources Central Valley Floodplain Evaluation and Delineation (CVFED) project. Data was also used from USGS, EBMUD, and CWS. A complete map of data sources and dates will be added shortly.
+12.	Date and resolution of underlying elevation data: Primary elevation data from 2007 LiDAR from the California Department of Water Resources Central Valley Floodplain Evaluation and Delineation (CVFED) project. Data was also used from USGS, EBMUD, and CWS. Here is a complete view of the data sources used to create the DEM for this model effort:
+![CWS-MWT_DEM](figures/MWT_Terrain_Coverage_1.png)
 13.	Availability to public or third party entities: Please contact Lily Tomkovic (latomkovic@ucdavis.edu).
 
 MCCORMACK-WILLIAMSON TRACT PROJECT PLANNING HYDRODYNAMIC MODELING – CBEC
