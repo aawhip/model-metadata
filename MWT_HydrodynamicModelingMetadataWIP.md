@@ -134,8 +134,8 @@ LOWER COSUMNES RIVER AND MCCORMACK-WILLIAMSON TRACT HYDRODYNAMIC MODELING – MO
 11.	Date of model completion: 2005
 12.	Date and resolution of underlying elevation data: 
 13.	Availability to public or third party entities: 
-MCCORMACK-WILLIAMSON TRACT HYDRODYNAMIC MODELING – HAMMERSMARK
 
+MCCORMACK-WILLIAMSON TRACT HYDRODYNAMIC MODELING – HAMMERSMARK
 1.	Project/Model title: Hydrodynamic Modeling and GIS Analysis of the Habitat Potential and Flood Control Benefits of the Restoration of a Leveed Delta Island
 2.	Description: See Hammersmark-2003.pdf
 3.	Contact information: 
@@ -164,3 +164,4 @@ LOWER COSUMNES RIVER HYDRODYNAMIC MODELING – BLAKE
 11.	Date of model completion: 2001
 12.	Date and resolution of underlying elevation data: See Blake_2001_thesis.pdf
 13.	Availability to public or third party entities:
+
