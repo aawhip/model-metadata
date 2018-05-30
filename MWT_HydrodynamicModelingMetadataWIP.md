@@ -8,7 +8,7 @@ MCCORMACK-WILLIAMSON TRACT HYDRODYNAMIC MODELING – CWS
 5.	Flows modeled: Model development in progress
 6.	Dimensions: 2D
 7.	Resolution:
-8.	Platform: Delft
+8.	Platform: Deltares D-Flow FM
 9.	Calibrated and verification performed:
 10.	Purpose: 
 11.	Date of model completion: Model development in progress
