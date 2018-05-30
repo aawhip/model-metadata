@@ -7,7 +7,7 @@ This is being done in response to requests from Bethany Hackenjos (bhackenjos@fl
 
 In the main text file (MWT_HydrodynamicModelingMetadataWIP.md), the following bullets should be answered for each project:
 1.  Project/Model title
-2.  Description
+2.  Description (include filename of uploaded documentation file, if available)
 3.  Contact information
 4.  Geospatial extent (include filename of uploaded shapefile, if available)
 5.  Flows modeled
