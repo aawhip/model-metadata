@@ -4,7 +4,7 @@ MCCORMACK-WILLIAMSON TRACT HYDRODYNAMIC MODELING – CWS
 1.	Project/Model title: Hydrodynamic modeling of the McCormack-Williamson Tract
 2.	Description: Calibrated 2D hydrodynamic model for the McCormack-Williamson Tract. Modeling is part of the UC Davis Center for Watershed Sciences McCormack-Williamson Tract Restoration Project funded by the Delta Science Program. 
 3.	Contact information: Lily Tomkovic, UC Davis Center for Watershed Sciences, latomkovic@ucdavis.edu
-4.	Geospatial extent: From Benson's Ferry down to Sacramento River at Rio Vista, and the Mokelumne at San Joaquin and Little Potato Slough; ; Jan_30_2018_w_Tract_cut_Benson_6.shp; Jan_30_2018_w_Tract_cut_Benson_6_outline.shp
+4.	Geospatial extent: From Benson's Ferry down to Sacramento River at Rio Vista, and the Mokelumne at San Joaquin and Little Potato Slough; ~32 km<sup>2</sup>; Jan_30_2018_w_Tract_cut_Benson_6.shp; Jan_30_2018_w_Tract_cut_Benson_6_outline.shp
 5.	Flows modeled: Model development in progress. Current geospatial extent is for flood conditions, when Benson's Ferry gage does not exchibit a tidal signal.
 6.	Dimensions: 2D
 7.	Resolution: The grid is an unstructured orthogonal grid with varying edge lengths and made up of triangles and quadrangle cells. The total number of cells is ~40,000. The shortest edge length is ~6m and the longest edge length is ~125m and the majority of cells are between 20 and 40 meters in length.
@@ -12,7 +12,7 @@ MCCORMACK-WILLIAMSON TRACT HYDRODYNAMIC MODELING – CWS
 9.	Calibrated and verification performed: In progress
 10.	Purpose: For research and pairing with monitoring field data from 2016-2019. Intended for investigation of restoration impacts and developing predictive tools for zooplankton abundance in Delta floodplain restoration sites.
 11.	Date of model completion: Model development in progress
-12.	Date and resolution of underlying elevation data: Primary elevation data from 2007 LiDAR from the California Department of Water Resources Central Valley Floodplain Evaluation and Delineation (CVFED) project. Data was also used from USGS, EBMUD, and CWS. A complete map of data sources and dates will be added shortly
+12.	Date and resolution of underlying elevation data: Primary elevation data from 2007 LiDAR from the California Department of Water Resources Central Valley Floodplain Evaluation and Delineation (CVFED) project. Data was also used from USGS, EBMUD, and CWS. A complete map of data sources and dates will be added shortly.
 13.	Availability to public or third party entities: Please contact Lily Tomkovic (latomkovic@ucdavis.edu).
 
 MCCORMACK-WILLIAMSON TRACT PROJECT PLANNING HYDRODYNAMIC MODELING – CBEC
@@ -34,22 +34,22 @@ LOWER COSUMNES RIVER FLOODPLAIN RIVER RESTORATION PROJECT HYDRODYNAMIC MODELING
 1.	Project/Model title: Hydrodynamic modeling of the Lower Cosumnes River Floodplain Restoration project pre- and post-restoration
 2.	Description: Calibrated 1D/2D models for both pre- and post-restoration conditions for the Lower Cosumnes River Floodplain Restoration project (implemented in 2014 by The Nature Conservancy). The modeling was conducted by Alison Whipple as part of her dissertation research and was part of the larger UC Davis Center for Watershed Sciences Cosumnes Research Group Phase 3 project (https://watershed.ucdavis.edu/project/crg3). 
 3.	Contact information: Alison A. Whipple, UC Davis Center for Watershed Sciences, aawhipple@ucdavis.edu
-4.	Geospatial extent: Lower Cosumnes River Floodplain Restoration project site; ~2.1 km2;  LCRFR_ModelDom_2017.shp; LCRFR_2DArea_2015.shp
-5.	Flows modeled: Calibration to ~80 m3/s; Validation to ~200 m3/s; Modeling performed for flows up to flow of record in daily time series (1,745 m3/s)
+4.	Geospatial extent: Lower Cosumnes River Floodplain Restoration project site; ~2.1 km<sup>2</sup>;  LCRFR_ModelDom_2017.shp; LCRFR_2DArea_2015.shp
+5.	Flows modeled: Calibration to ~80 m<sup>3</sup>/s; Validation to ~200 m<sup>3</sup>/s; Modeling performed for flows up to flow of record in daily time series (1,745 m<sup>3</sup>/s)
 6.	Dimensions: 1D channel, 2D floodplain area
-7.	Resolution: Cell size 110-4,200 m2 (flexible mesh), subgrid capacity of HEC-RAS 5.0 model allows for output at DEM resolution (1 m2). DEM based on 2007 LiDAR plus Real Time Kinematic (RTK) GPS survey data for areas altered with restoration. Channel bathymetry based on channel surface interpolation (within HEC-RAS) using cross-sections of ~200 m spacing.
+7.	Resolution: Cell size 110-4,200 m<sup>2</sup> (flexible mesh), subgrid capacity of HEC-RAS 5.0 model allows for output at DEM resolution (1 m<sup>2</sup>). DEM based on 2007 LiDAR plus Real Time Kinematic (RTK) GPS survey data for areas altered with restoration. Channel bathymetry based on channel surface interpolation (within HEC-RAS) using cross-sections of ~200 m spacing.
 8.	Platform: HEC-RAS 5.0, US Army Corps of Engineers 
 9.	Calibrated and verification performed: Yes, calibration and validation performed for pre- and post-restoration conditions using in-channel and floodplain WSE.
 10.	Purpose: Developed by Alison Whipple as part of her dissertation research on spatiotemporal quantification of floodplain inundation patterns. Informed the larger UC Davis Center for Watershed Sciences Cosumnes Research Group Phase 3 project (https://watershed.ucdavis.edu/project/crg3).
 11.	Date of model completion: 2017
-12.	Date and resolution of underlying elevation data: Primary elevation data from 2007 LiDAR from the California Department of Water Resources Central Valley Floodplain Evaluation and Delineation (CVFED) project. Areas modified by restoration implementation were surveyed using RTK GPS in the fall of 2014 (shortly after project implementation). Most cross-sections used for channel surface interpolation were obtained in the summer of 2014. DEM resolution: 1 m2.
+12.	Date and resolution of underlying elevation data: Primary elevation data from 2007 LiDAR from the California Department of Water Resources Central Valley Floodplain Evaluation and Delineation (CVFED) project. Areas modified by restoration implementation were surveyed using RTK GPS in the fall of 2014 (shortly after project implementation). Most cross-sections used for channel surface interpolation were obtained in the summer of 2014. DEM resolution: 1 m<sup>2</sup>.
 13.	Availability to public or third party entities: Please contact Alison Whipple (aawhipple@ucdavis.edu).
 
 LOWER COSUMNES RIVER FLOODPLAIN RESTORATION PROJECT PLANNING HYDRODYNAMIC MODELING – RBI
 1.	Project/Model title: Hydrodynamic modeling of the McCormack-Williamson Tract for restoration planning
 2.	Description: 2D hydrodynamic modeling for the McCormack-Williamson Tract in support of restoration planning for The Nature Conservancy. See RBI_Flood Modeling Report-Final.pdf.
 3.	Contact information: Robertson-Bryan, Inc
-4.	Geospatial extent: 10.4 mi2, 5 mi of river channel. See RBI_Flood Modeling Report-Final.pdf.
+4.	Geospatial extent: 10.4 mi<sup>2</sup>, 5 mi of river channel. See RBI_Flood Modeling Report-Final.pdf.
 5.	Flows modeled: 3.5-yr flood (12,800 cfs peak); 10-yr flood (32,600 cfs peak) 
 6.	Dimensions: 1D/2D
 7.	Resolution: Cell size 100x100 ft
@@ -57,7 +57,7 @@ LOWER COSUMNES RIVER FLOODPLAIN RESTORATION PROJECT PLANNING HYDRODYNAMIC MODELI
 9.	Calibrated and verification performed: Calibration for 12,800 cfs peak flow using inundation maps and aerial photographs taken the day after peak flow.
 10.	Purpose: Lower Cosumnes River Floodplain Restoration Project Planning for The Nature Conservancy.
 11.	Date of model completion: 2011
-12.	Date and resolution of underlying elevation data: LiDAR 2005, DEM resolution: 1 m2.
+12.	Date and resolution of underlying elevation data: LiDAR 2005, DEM resolution: 1 m<sup>2</sup>.
 13.	Availability to public or third party entities: Please contact Robertson-Bryan, Inc.
 
 GRIZZLEY SLOUGH HYDRODYNAMIC MODELING – ESA
