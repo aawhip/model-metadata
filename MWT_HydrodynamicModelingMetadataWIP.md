@@ -4,15 +4,15 @@ MCCORMACK-WILLIAMSON TRACT HYDRODYNAMIC MODELING – CWS
 1.	Project/Model title: Hydrodynamic modeling of the McCormack-Williamson Tract
 2.	Description: Calibrated 2D hydrodynamic model for the McCormack-Williamson Tract. Modeling is part of the UC Davis Center for Watershed Sciences McCormack-Williamson Tract Restoration Project funded by the Delta Science Program. 
 3.	Contact information: Lily Tomkovic, UC Davis Center for Watershed Sciences, latomkovic@ucdavis.edu
-4.	Geospatial extent: 
-5.	Flows modeled: Model development in progress
+4.	Geospatial extent: From Benson's Ferry down to Sacramento River at Rio Vista, and the Mokelumne at San Joaquin and Little Potato Slough; ; Jan_30_2018_w_Tract_cut_Benson_6.shp; Jan_30_2018_w_Tract_cut_Benson_6_outline.shp
+5.	Flows modeled: Model development in progress. Current geospatial extent is for flood conditions, when Benson's Ferry gage does not exchibit a tidal signal.
 6.	Dimensions: 2D
-7.	Resolution:
+7.	Resolution: The grid is an unstructured orthogonal grid with varying edge lengths and made up of triangles and quadrangle cells. The total number of cells is ~40,000. The shortest edge length is ~6m and the longest edge length is ~125m and the majority of cells are between 20 and 40 meters in length.
 8.	Platform: Deltares D-Flow FM
-9.	Calibrated and verification performed:
-10.	Purpose: 
+9.	Calibrated and verification performed: In progress
+10.	Purpose: For research and pairing with monitoring field data from 2016-2019. Intended for investigation of restoration impacts and developing predictive tools for zooplankton abundance in Delta floodplain restoration sites.
 11.	Date of model completion: Model development in progress
-12.	Date and resolution of underlying elevation data: Primary elevation data from 2007 LiDAR from the California Department of Water Resources Central Valley Floodplain Evaluation and Delineation (CVFED) project. 
+12.	Date and resolution of underlying elevation data: Primary elevation data from 2007 LiDAR from the California Department of Water Resources Central Valley Floodplain Evaluation and Delineation (CVFED) project. Data was also used from USGS, EBMUD, and CWS. A complete map of data sources and dates will be added shortly
 13.	Availability to public or third party entities: Please contact Lily Tomkovic (latomkovic@ucdavis.edu).
 
 MCCORMACK-WILLIAMSON TRACT PROJECT PLANNING HYDRODYNAMIC MODELING – CBEC
