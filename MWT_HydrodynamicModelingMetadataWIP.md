@@ -171,7 +171,7 @@ LOWER COSUMNES RIVER HYDRODYNAMIC MODELING – BLAKE
 1.	Project/Model title: An Unsteady Hydraulic Surface Water Model of the Lower Cosumnes River, California, for the Investigation of Floodplain Dynamics
 2.	Description: See [Blake 2001 thesis](documentation/Blake_2001_thesis.pdf)
 3.	Contact information: 
-4.	Geospatial extent: See Blake_2001_thesis.pdf
+4.	Geospatial extent: See [Blake 2001 thesis](documentation/Blake_2001_thesis.pdf)
 5.	Flows modeled: ~2.5-yr, ~5-yr, ~10-yr
 6.	Dimensions: 1D
 7.	Resolution:
