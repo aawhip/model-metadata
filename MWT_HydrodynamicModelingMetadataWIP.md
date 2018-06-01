@@ -5,7 +5,7 @@ MCCORMACK-WILLIAMSON TRACT HYDRODYNAMIC MODELING – CWS
 2.	Description: Calibrated 2D hydrodynamic model for the McCormack-Williamson Tract. Modeling is part of the UC Davis Center for Watershed Sciences McCormack-Williamson Tract Restoration Project funded by the Delta Science Program. 
 3.	Contact information: Lily Tomkovic, UC Davis Center for Watershed Sciences, latomkovic@ucdavis.edu
 4.	Geospatial extent: From Benson's Ferry down to Sacramento River at Rio Vista, and the Mokelumne at San Joaquin and Little Potato Slough; ~32 km<sup>2</sup>; Jan_30_2018_w_Tract_cut_Benson_6.shp; Jan_30_2018_w_Tract_cut_Benson_6_outline.shp
-5.	Flows modeled: Model development in progress. Current geospatial extent is for flood conditions, when Benson's Ferry gage does not exchibit a tidal signal.
+5.	Flows modeled: Model development in progress. Current geospatial extent is for flood conditions, when Benson's Ferry gage does not exhibit a tidal signal.
 6.	Dimensions: 2D
 7.	Resolution: The grid is an unstructured orthogonal grid with varying edge lengths and made up of triangles and quadrangle cells. The total number of cells is ~40,000. The shortest edge length is ~6m and the longest edge length is ~125m and the majority of cells are between 20 and 40 meters in length.
 8.	Platform: Deltares D-Flow FM
@@ -34,8 +34,8 @@ MCCORMACK-WILLIAMSON TRACT PROJECT PLANNING HYDRODYNAMIC MODELING – CBEC
 LOWER COSUMNES RIVER FLOODPLAIN RIVER RESTORATION PROJECT HYDRODYNAMIC MODELING
 1.	Project/Model title: Hydrodynamic modeling of the Lower Cosumnes River Floodplain Restoration project pre- and post-restoration
 2.	Description: Calibrated 1D/2D models for both pre- and post-restoration conditions for the Lower Cosumnes River Floodplain Restoration project (implemented in 2014 by The Nature Conservancy). The modeling was conducted by Alison Whipple as part of her dissertation research and was part of the larger UC Davis Center for Watershed Sciences Cosumnes Research Group Phase 3 project (https://watershed.ucdavis.edu/project/crg3). 
-3.	Contact information: Alison A. Whipple, UC Davis Center for Watershed Sciences, aawhipple@ucdavis.edu
-4.	Geospatial extent: Lower Cosumnes River Floodplain Restoration project site; ~2.1 km<sup>2</sup>;  LCRFR_ModelDom_2017.shp; LCRFR_2DArea_2015.shp
+3.	Contact information: Alison Whipple, UC Davis Center for Watershed Sciences, aawhipple@ucdavis.edu
+4.	Geospatial extent: Lower Cosumnes River Floodplain Restoration project site; ~2.1 km<sup>2</sup>; Model domain extends from ~2 km downstream of Highway 99 to ~5.5 km upstream of the Cosumnes R confluence with the Mokelumne R; LCRFR_ModelDom_2017.shp; LCRFR_2DArea_2015.shp
 5.	Flows modeled: Calibration to ~80 m<sup>3</sup>/s; Validation to ~200 m<sup>3</sup>/s; Modeling performed for flows up to flow of record in daily time series (1,745 m<sup>3</sup>/s)
 6.	Dimensions: 1D channel, 2D floodplain area
 7.	Resolution: Cell size 110-4,200 m<sup>2</sup> (flexible mesh), subgrid capacity of HEC-RAS 5.0 model allows for output at DEM resolution (1 m<sup>2</sup>). DEM based on 2007 LiDAR plus Real Time Kinematic (RTK) GPS survey data for areas altered with restoration. Channel bathymetry based on channel surface interpolation (within HEC-RAS) using cross-sections of ~200 m spacing.
@@ -99,7 +99,7 @@ LOWER COSUMNES RIVER HYDRODYNAMIC MODELING – FLEENOR
 5.	Flows modeled: 
 6.	Dimensions: 
 7.	Resolution:
-8.	Platform: 
+8.	Platform: HEC-RAS
 9.	Calibrated and verification performed:
 10.	Purpose: 
 11.	Date of model completion: 
