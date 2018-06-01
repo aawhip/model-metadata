@@ -1,9 +1,9 @@
 # model-metadata
-collection of hydrodynamic model metadata in the McCormack-Williamson Tract area for SFEI project
+## Collection of hydrodynamic model metadata in the McCormack-Williamson Tract area for SFEI project
 
 This repository is intended as a gathering place for information regarding hydrodynamic modeling efforts (past and present) in and around the McCormack-Williamson Tract. 
 
-This is being done in response to requests from Bethany Hackenjos (bhackenjos@flowwest.com) at Flow West, which is subcontracting with the San Francisco Estuary Institute for their McCormack-Williamson Tract Restoration Project.
+This is being done in response to requests from Bethany Hackenjos (bhackenjos@flowwest.com) at Flow West, as part of the San Francisco Estuary Institute McCormack-Williamson Tract Restoration Project.
 
 In the main text file (MWT_HydrodynamicModelingMetadataWIP.md), the following bullets should be answered for each project:
 1.  Project/Model title
@@ -20,4 +20,3 @@ In the main text file (MWT_HydrodynamicModelingMetadataWIP.md), the following bu
 12. Date and resolution of underlying elevation data (topography and bathymetry)
 13. Availability to public or third party entities
 
-This information will later be brought into the word document version (MWT_HydrodynamicModelingMetadata.docx) for distribution to Bethany.
